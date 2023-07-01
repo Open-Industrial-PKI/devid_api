@@ -1,0 +1,20 @@
+{
+    "name": "devid-api",
+    "version": "0.0.2",
+    "description": "Flask API server for IEEE802.1AR",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FHKatCSW/devid_api"
+    },
+    "bugs": {
+        "url": "https://github.com/FHKatCSW/devid_api",
+        "email": "support@appseed.us"
+    },
+    "author": "Florian Handke <florian.handke@campus-schwarzwald.de>",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}

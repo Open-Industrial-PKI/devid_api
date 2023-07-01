@@ -1,0 +1,3 @@
+A device can recognize that it connects to a network by detecting the presence of a network interface and obtaining an IP address from a DHCP server or other network configuration mechanism.
+
+When a device is connected to a network, it sends out a series of messages on the network to discover other devices and services. These messages can include DHCP requests, Address Resolution Protocol (ARP) requests, and other types of network discovery messages.
